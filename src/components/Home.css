@@ -1,0 +1,20 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.title {
+  font-size: 3rem;
+  color: #343a40;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #6c757d;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,54 @@
+.list {
+  list-style-type: none;
+  padding: 0;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.link-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.long-link {
+  color: #212529;
+  text-decoration: none;
+  word-break: break-all;
+}
+
+.short-link {
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+.arrow {
+  margin: 0 5px;
+  color: #6c757d;
+}
+
+.copy-button {
+  padding: 8px 12px;
+  background-color: #198754;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.copy-button:hover {
+  background-color: #157347;
+}
