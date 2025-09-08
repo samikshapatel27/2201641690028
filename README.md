@@ -20,6 +20,9 @@ npm run dev
 
 Open `http://localhost:5173` in your browser.
 
+## 📸 Screenshot
+![App Screenshot](./screenshots/app-preview.png)
+
 ## License
 
 Open-source and free to use.
